@@ -2,6 +2,9 @@
 import Texto from './components/Texto.vue'
 import logo from './components/logo.vue'
 import pregunta from './components/pregunta.vue'
+import pregunta2 from './components/pregunta2.vue'
+import pregunta3 from './components/pregunta3.vue'
+import card from './components/card.vue'
 </script>
 
 <template>
@@ -13,16 +16,11 @@ import pregunta from './components/pregunta.vue'
       <Texto />
     </div>
   </header>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
   <main>
     <pregunta/>
+    <pregunta2/>
+    <pregunta3/>
+    <card/>
   </main>
 </template>
 
