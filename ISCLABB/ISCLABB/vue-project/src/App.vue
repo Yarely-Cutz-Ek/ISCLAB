@@ -4,6 +4,15 @@ import esti from './components/esti.vue'
 </script>
 
 <template>
-  <esti/>
-  <logo/>
+  <header>
+    <nombre />
+  </header>
+
+  <main>
+    <logo/>
+  </main>
+  <aside class="bg-gray-200">
+    <esti/>
+      
+  </aside>
 </template>
