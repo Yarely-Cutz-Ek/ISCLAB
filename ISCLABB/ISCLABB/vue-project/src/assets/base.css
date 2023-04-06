@@ -3,8 +3,8 @@
   --vt-c-white: #ffffff;
   --vt-c-white-soft: #f8f8f8;
   --vt-c-white-mute: #f2f2f2;
-
-  --vt-c-black: #181818;
+/*Este es el del fondo*/
+  --vt-c-black: #a2fff0;
   --vt-c-black-soft: #222222;
   --vt-c-black-mute: #282828;
 
@@ -55,7 +55,7 @@
 *::after {
   box-sizing: border-box;
   margin: 0;
-  position: relative;
+  position: center;
   font-weight: normal;
 }
 
