@@ -55,6 +55,6 @@ import Item from './estilos.vue'
 
 <style type="text/css">
   .cards{
-    display: inline-flex;
+    display: center;
   }
 </style>

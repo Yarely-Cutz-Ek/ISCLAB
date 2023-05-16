@@ -1,7 +1,6 @@
 <script setup>
 import Item from './estilos.vue'
 </script>
-
 <template>
   <Item>
     <div class="bg-[#8ECAE6] text-[#023047] text-3xl md:text-4xl px-10 py-5 md:flex md:justify-between">
@@ -74,4 +73,5 @@ import Item from './estilos.vue'
     <p class="text-white " style="margin: 10px 10px 10px 0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non augue diam. Duis ut eleifend ipsum. Pellentesque id condimentum magna. Nulla leo ligula, faucibus commodo ligula nec, laoreet ullamcorper nulla. Duis venenatis aliquet ex sit amet sollicitudin.  <a class="text-amber-600" href="#">Etiam sagittis quis lacus ac dictum.</a> Donec imperdiet consectetur lacinia. Nullam sagittis elementum eros, quis ornare dui accumsan sit amet. Pellentesque leo dolor, suscipit ac magna nec, interdum vehicula magna.</p>
   </div>
   </Item>
+
 </template>
