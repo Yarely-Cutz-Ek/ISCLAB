@@ -17,13 +17,13 @@ import Item from './estilos.vue'
               <g>
                 <g>
                   <g id="Capa2">
-                    <path d="M82.775,89.986l-9.562,-15.753l-18.702,-0.24c0,0 9.563,15.754 9.563,15.754l18.701,0.239Z" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
+                    <path d="M82.775,89.986l-9.562,-15.753l-18.702,-0.24c0,0 9.563,15.754 9.563,15.754l18.701,0.239Z" style="fill: none; stroke: #022638; stroke-width: 6px"></path>
                     <path d="M45.378,89.504l9.133,-15.511c0,0 9.563,15.755 9.563,15.754c0,0.001 -9.135,15.509 -9.135,15.509l-9.561,-15.752Z" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
                     <path d="M64.074,89.747l-9.135,15.509l18.697,0.245l9.139,-15.515l-18.701,-0.239Z" style="fill: none; stroke: #023047; stroke-width: 6px"></path>
                   </g>
                   <path d="M71.072,58.44c-3.555,-1.955 -4.912,0.592 -8.244,0.633l-1.686,-5.366c-4.894,0.247 -9.664,1.424 -14.038,3.463l1.445,5.426c-2.909,1.498 -5.543,3.435 -7.807,5.74l-5.093,-2.744c-3.188,3.521 -5.61,7.633 -7.126,12.099l4.97,2.951c-0.905,3.074 -1.299,6.279 -1.168,9.497l-5.517,1.486c0.385,4.733 1.731,9.37 3.96,13.648l5.584,-1.253c1.629,2.849 3.706,5.445 6.155,7.691l-2.709,4.845c3.733,3.172 8.057,5.619 12.726,7.202l2.927,-4.722c3.209,0.955 6.541,1.42 9.872,1.379l1.686,5.366c4.894,-0.247 9.664,-1.423 14.038,-3.463l-1.445,-5.425c2.909,-1.498 5.544,-3.436 7.807,-5.741l5.093,2.744c3.188,-3.521 5.61,-7.632 7.127,-12.099l-4.971,-2.951c0.905,-3.074 1.299,-6.278 1.168,-9.497l5.517,-1.486c-0.385,-4.732 -1.731,-9.37 -3.959,-13.647l-5.585,1.252c-1.629,-2.849 -0.712,-4.696 -3.383,-6.649" style="
                       fill: none;
-                      stroke: #023047;
+                      stroke:  #023047;
                       stroke-width: 6px;
                       stroke-linecap: square;
                     "></path>
@@ -41,7 +41,7 @@ import Item from './estilos.vue'
           </svg>
         </div>
         <h1 class="hidden">isclab.com.mx</h1>
-        <div id="subtle" class="ml-5 md:ml-10" style="opacity: 1; transform: translate(0px, 0px);">
+        <div id="subtle" class="ml-10 md:ml-15" style="opacity: 1; transform: translate(0px, 0px);">
           <p class="md:text-4xl mb-2">
             Laboratorio de sistemas y aplicaciones web
           </p>
@@ -65,13 +65,6 @@ import Item from './estilos.vue'
     </p>
    </div>
 
-  </Item>
-
-  <Item>
-  <div class="w-4/5 ">
-    <h2 class="text-white">Objetivos</h2>
-    <p class="text-white " style="margin: 10px 10px 10px 0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non augue diam. Duis ut eleifend ipsum. Pellentesque id condimentum magna. Nulla leo ligula, faucibus commodo ligula nec, laoreet ullamcorper nulla. Duis venenatis aliquet ex sit amet sollicitudin.  <a class="text-amber-600" href="#">Etiam sagittis quis lacus ac dictum.</a> Donec imperdiet consectetur lacinia. Nullam sagittis elementum eros, quis ornare dui accumsan sit amet. Pellentesque leo dolor, suscipit ac magna nec, interdum vehicula magna.</p>
-  </div>
   </Item>
 
 </template>

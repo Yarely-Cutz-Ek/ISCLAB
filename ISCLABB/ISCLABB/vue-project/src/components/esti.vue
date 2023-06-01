@@ -12,7 +12,7 @@ import Item from './estilos.vue'
   </div>
   </Item>
 
-  <Item>
+<b-list-group-item variant="light">
 <div class="cards" style="margin: 10px 10px 10px 250px">
   <div class="max-w-sm rounded overflow-hidden shadow-lg bg-amber-600 border border-black " style="margin: 30px 10px 10px 0px">
   
@@ -50,11 +50,6 @@ import Item from './estilos.vue'
   </div>
   </div>
 </div>
-  </Item>
+</b-list-group-item>
 </template>
 
-<style type="text/css">
-  .cards{
-    display: center;
-  }
-</style>

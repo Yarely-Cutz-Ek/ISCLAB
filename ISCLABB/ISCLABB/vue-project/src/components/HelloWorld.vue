@@ -31,13 +31,13 @@ h3 {
 
 .greetings h1,
 .greetings h3 {
-  text-align: center;
+  text-align: flex;
 }
 
 @media (min-width: 1024px) {
   .greetings h1,
   .greetings h3 {
-    text-align: left;
+    text-align: flex;
   }
 }
 </style>
